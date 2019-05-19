@@ -23,4 +23,5 @@ class Dog
       puts doggy
     end  
   end
+  
 end
